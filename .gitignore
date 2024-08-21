@@ -1,3 +1,4 @@
 No/
 *.txt/
-Unimportant
+Unimportant/
+!important
