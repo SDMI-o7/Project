@@ -1,3 +1,3 @@
-y = 300
-y = "esdge"
+y = 123456789
+y = "asdfghjkl"
 print(y)
