@@ -1,3 +1,3 @@
-y = 300
-y = "esdge"
+y = 369852147
+y = "poiuytrewq"
 print(y)
